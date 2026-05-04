@@ -38,7 +38,6 @@ Hello! I'm Hermann, a passionate software developer with a knack for creating ef
 
 ---
 
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
