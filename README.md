@@ -1,6 +1,6 @@
 # 👨‍💻 Hermann Ngenda | Professional Portfolio
 
-Welcome to my professional portfolio! I'm a full-stack developer specializing in web applications, AI/ML, and network security.
+Welcome to my professional portfolio! I'm a full-stack developer specializing in web applications, AI/ML, Data Analystic and network security.
 
 ---
 
