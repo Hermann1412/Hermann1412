@@ -40,8 +40,14 @@ Hello! I'm Hermann, a passionate software developer with a knack for creating ef
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hermann1412&show_icons=true&theme=radical)
+## 📊 GitHub Statistics
 
+![Profile Views](https://komarev.com/ghpvc/?username=Hermann1412&color=blue)
+
+![GitHub followers](https://img.shields.io/github/followers/Hermann1412?style=social&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/Hermann1412?affiliations=OWNER&style=social&logo=github)
+
+[View My GitHub Profile](https://github.com/Hermann1412)
 ---
 
 ## 📬 Contact Information
