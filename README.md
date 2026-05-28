@@ -1,12 +1,13 @@
 # 👨‍💻 Hermann Ngenda | Professional Portfolio
 
-Welcome to my professional portfolio! I'm a full-stack developer specializing in web applications, AI/ML, Data Analystic and network security.
+Welcome to my professional portfolio! We are on the age where AI is racing against AI (Actual Intelligence "us" vs Artificial Intelligence "the machine" and the Arival of a new term of coding "vibe coding" ...
+now with Anthropie and all the AI anyone can code , it's true; but coding or programing does not define "us" engineers. What define us is our abilities not only to solve problems, understand the "how" in the "why" of the problem, understand the structure and adapt on it  
 
 ---
 
 ## 📋 About Me
 
-Hello! I'm Hermann, a passionate software developer with a knack for creating efficient solutions and a love for technology. I enjoy working on diverse projects and continuously learning new skills to enhance my capabilities.
+I'm Hermann, a passionate software developer with a knack for creating efficient solutions and a love for technology. I enjoy working on diverse projects and continuously learning new skills to enhance my capabilities.
 
 ---
 
@@ -14,7 +15,7 @@ Hello! I'm Hermann, a passionate software developer with a knack for creating ef
 
 **Languages:** JavaScript, Python, Java, Kotlin, PHP, TypeScript  
 **Frameworks:** React, Express, Django, FastAPI  
-**Databases:** PostgreSQL, MongoDB, MySQL, T-SQL  
+**Databases:** PostgreSQL, MongoDB, MySQL, T-SQL, Redis 
 **Tools:** Git, Docker, AWS, Cisco Packet Tracer, Wireshark, Burp Suite, Nmap
 
 ---
