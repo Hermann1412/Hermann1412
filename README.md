@@ -1,7 +1,7 @@
 # 👨‍💻 Hermann Ngenda | Professional Portfolio
 
 Welcome to my professional portfolio! We are on the age where AI is racing against AI (Actual Intelligence "us" vs Artificial Intelligence "the machine" and the Arival of a new term of coding "vibe coding" ...
-now with Anthropie and all the AI anyone can code , it's true; but coding or programing does not define "us" engineers. What define us is our abilities not only to solve problems, understand the "how" in the "why" of the problem, understand the structure and adapt on it  
+now with Anthropie and all the AI anyone can code , it's true; but coding or programing does not define "us" engineers. What define us is our abilities not only to solve problems but to understand the "how" in the "why" of the problem, understand the structure and adapt to it. any human can code with an AI but with an AI engineer's are building the future
 
 ---
 
