@@ -37,7 +37,7 @@ I'm Hermann, a passionate software developer with a knack for creating efficient
 | 11 | **Network Design & Security** | Cisco, Wireshark, Nmap | Enterprise security infrastructure |
 | 12 | **Pentesting & Vulnerability** | Nmap, Metasploit, Burp Suite | Security testing and assessment |
 | 13 | **Docker & k8s reference** | Docker, K8s, Vscode, Github | reference note for cloud infrastructure |
-| 14 | **153shelf** | | open library completly free with all the books i used |
+| 14 | **153shelf** | | open library (website) completly free with all the books i used |
 
 ---
 
