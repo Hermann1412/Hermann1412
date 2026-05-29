@@ -18,7 +18,7 @@ I'm Hermann, a passionate software developer with a knack for creating efficient
 **Databases:** PostgreSQL, MongoDB, MySQL, T-SQL, Redis 
 **Tools:** Git, Docker-K8s, Cisco Packet Tracer, Wireshark, Burp Suite, Nmap
 **Cloud-Provider:** Microsoft Azure, AWS, Oracle cloud
-**++:** Cloudflare, Versel, render, railway
+**++:** Cloudflare, Versel, render, railway, cloudinary
 
 ---
 
